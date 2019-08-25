@@ -1,0 +1,23 @@
+﻿<#+
+
+    public void PrintClassName(string name)
+    {
+        if (!char.IsLetter(name[0]))
+        {
+#>_<#+
+        }
+        foreach (char c in name)
+        {
+            if (char.IsLetterOrDigit(c))
+            {
+#><#= c #><#+
+            }
+            else
+            {
+#>_<#+
+            }
+        }
+        int x = 0;
+    }
+
+#>

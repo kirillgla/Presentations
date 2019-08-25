@@ -1,0 +1,12 @@
+﻿<#@ output extension="txt" #>
+<#@ assembly name="$(SolutionDir)/Assemblies/Foo"#>
+<#
+    int x = 2;
+    if (x > 0)
+    {
+        x += 1;
+    }
+#><#= x #>
+<#
+    x += 1;
+#>

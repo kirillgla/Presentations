@@ -1,0 +1,8 @@
+﻿<#@ output extension="cs" #>
+<#@ include file="Included.ttinclude" #>
+namespace Includes
+{
+    public class <# PrintClassName("Illegal symbols?"); #> 
+    {
+    }
+}

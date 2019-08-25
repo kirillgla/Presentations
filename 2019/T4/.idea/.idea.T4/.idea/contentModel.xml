@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="D:\GitHub\ForTea\Frontend\build\idea-sandbox\system\extResources" t="IncludeRecursive" />
+    <e p="D:\GitHub\ForTea\Frontend\build\idea-sandbox\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_T4.-825939338.00" t="ExcludeRecursive" />
+    <e p="D:\GitHub\Presentations\2019\T4" t="IncludeFlat">
+      <e p="Assemblies" t="IncludeRecursive">
+        <e p="Assemblies.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Template.tt" t="Include" />
+        <e p="Template.txt" t="Include" />
+      </e>
+      <e p="Includes" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Included.ttinclude" t="Include" />
+        <e p="Includes.csproj" t="IncludeRecursive" />
+        <e p="MainFile.cs" t="Include" />
+        <e p="MainFile.tt" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="Macros" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Macros.csproj" t="IncludeRecursive" />
+        <e p="Macros.tt" t="Include" />
+        <e p="Macros.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Windows_NT" t="Include">
+          <e p="Included.ttinclude" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="T4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CSharpCode.cs" t="Include" />
+        <e p="CSharpCode.tt" t="Include" />
+        <e p="CSharpCode.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="T4.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="T4.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+﻿<#@ output extension="txt"#>
+<#@ assembly name="Foo" #>
+<#@ import namespace="FooNamespace" #>
+<# var x = new Foo().FooMethod(); #>
+<#= x #>

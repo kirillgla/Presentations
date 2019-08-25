@@ -1,0 +1,11 @@
+﻿<#@ output extension="txt" #>
+<# if (true)
+   { #><#= Foo1() #>
+<# } #><#+
+    private int Foo1()
+    {
+        var x = 2;
+        if (x > 0) #><#= x #><#+
+        return 42;
+    }
+#>
